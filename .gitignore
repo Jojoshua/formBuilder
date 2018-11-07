@@ -6,3 +6,14 @@ dist/
 site
 .DS_Store
 yarn-error.log
+.vscode
+*.min*
+demo/assets
+demo/assets/js/control_plugins/textarea.trumbowyg.min.js
+demo/assets/js/demo.min.js
+demo/assets/js/demo.min.js.gz
+demo/assets/js/form-builder.min.js
+demo/assets/js/form-builder.min.js.gz
+demo/assets/js/form-render.min.js
+demo/assets/js/form-render.min.js.gz
+demo/assets/js/control_plugins/starRating.min.js
